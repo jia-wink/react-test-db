@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Handsome Luo",
+    "email": "johndoe@example.com",
+    "phone": "555-555-5555",
+    "address": "123 Main St, Anytown, USA",
+    "notes": "This is a note about John Doe.",
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-04-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Li Chan",
+    "email": "janelichansmith@example.com",
+    "phone": "555-555-5556",
+    "address": "456 Other St, Anytown, USA",
+    "notes": "This is a note about Jane Smith.",
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-04-01T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Li Huoshan",
+    "email": "lihuoshan@example.com",
+    "phone": "555-555-5557",
+    "address": "789 Anywhere St, Anytown, USA",
+    "notes": "This is a note about Mike Brown.",
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-04-01T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Bad Li",
+    "email": "badli@example.com",
+    "phone": "555-555-5557",
+    "address": "789 Anywhere St, Anytown, USA",
+    "notes": "This is a note about Mike Brown.",
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-04-01T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "last guy",
+    "email": "lastguy@example.com",
+    "phone": "555-555-5557",
+    "address": "789 Anywhere St, Anytown, USA",
+    "notes": "This is a note about Mike Brown.",
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-04-01T12:00:00Z"
+  }
+]
